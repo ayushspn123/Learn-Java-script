@@ -1,5 +1,5 @@
-const key1="objkey1";
-const key2=  "objekey2";
+const key1=  "objkey1";
+const key2=   "objekey2";
 const value1=1;
 const value2=2;
 const obj={
